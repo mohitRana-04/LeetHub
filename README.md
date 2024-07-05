@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
@@ -25,13 +26,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 ## Array
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0054-spiral-matrix) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
