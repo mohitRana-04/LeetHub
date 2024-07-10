@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mohitRana-04/LeetHub/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 | [1983-maximum-population-year](https://github.com/mohitRana-04/LeetHub/tree/master/1983-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0054-spiral-matrix) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
