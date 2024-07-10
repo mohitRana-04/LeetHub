@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohitRana-04/LeetHub/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/mohitRana-04/LeetHub/tree/master/0091-decode-ways) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohitRana-04/LeetHub/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/mohitRana-04/LeetHub/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/mohitRana-04/LeetHub/tree/master/0139-word-break) |
 ## Trie
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohitRana-04/LeetHub/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
