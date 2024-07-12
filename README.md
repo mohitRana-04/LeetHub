@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/mohitRana-04/LeetHub/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/mohitRana-04/LeetHub/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0152-maximum-product-subarray) |
