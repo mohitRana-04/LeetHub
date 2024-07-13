@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mohitRana-04/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohitRana-04/LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitRana-04/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitRana-04/LeetHub/tree/master/0162-find-peak-element) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/mohitRana-04/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
