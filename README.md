@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mohitRana-04/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
+| [0237-delete-node-in-a-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohitRana-04/LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
