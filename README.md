@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/mohitRana-04/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/0328-odd-even-linked-list) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0543-diameter-of-binary-tree) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0543-diameter-of-binary-tree) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -132,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
