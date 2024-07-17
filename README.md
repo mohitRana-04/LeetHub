@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitRana-04/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitRana-04/LeetHub/tree/master/0162-find-peak-element) |
+| [0605-can-place-flowers](https://github.com/mohitRana-04/LeetHub/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mohitRana-04/LeetHub/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0045-jump-game-ii) |
+| [0605-can-place-flowers](https://github.com/mohitRana-04/LeetHub/tree/master/0605-can-place-flowers) |
 ## Backtracking
 |  |
 | ------- |
