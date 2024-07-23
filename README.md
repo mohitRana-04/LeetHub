@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 | [1983-maximum-population-year](https://github.com/mohitRana-04/LeetHub/tree/master/1983-maximum-population-year) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mohitRana-04/LeetHub/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/mohitRana-04/LeetHub/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0152-maximum-product-subarray) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/mohitRana-04/LeetHub/tree/master/0605-can-place-flowers) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Stack
+|  |
+| ------- |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 <!---LeetCode Topics End-->
