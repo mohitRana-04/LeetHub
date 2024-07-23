@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/mohitRana-04/LeetHub/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Breadth-First Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/mohitRana-04/LeetHub/tree/master/0433-minimum-genetic-mutation) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/mohitRana-04/LeetHub/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
+| [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Counting
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/mohitRana-04/LeetHub/tree/master/0871-keys-and-rooms) |
+| [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Stack
 |  |
