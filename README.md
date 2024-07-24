@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitRana-04/LeetHub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/mohitRana-04/LeetHub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitRana-04/LeetHub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/mohitRana-04/LeetHub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitRana-04/LeetHub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/mohitRana-04/LeetHub/tree/master/0433-minimum-genetic-mutation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitRana-04/LeetHub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
