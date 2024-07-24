@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/mohitRana-04/LeetHub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0433-minimum-genetic-mutation](https://github.com/mohitRana-04/LeetHub/tree/master/0433-minimum-genetic-mutation) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
+| [0813-all-paths-from-source-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/mohitRana-04/LeetHub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohitRana-04/LeetHub/tree/master/0022-generate-parentheses) |
+| [0813-all-paths-from-source-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/mohitRana-04/LeetHub/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/mohitRana-04/LeetHub/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
