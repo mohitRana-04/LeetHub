@@ -13,13 +13,28 @@ class Solution {
 public:
 
     TreeNode* helper(vector<int>& preorder, vector<int>& inorder, int start, int end, int &ind){
+        // if(start>end) return NULL;
+
+        // int val = preorder[ind];
+        // int i = start;
+        // for( ; i<=end; i++ ){
+        //     if(inorder[i] == val) break;
+        // }
+        // ind++;
+        // TreeNode* root = new TreeNode(val);
+        // root->left = helper(preorder, inorder, start, i-1, ind);
+        // root->right = helper(preorder, inorder, i+1, end, ind);
+        // return root;
+
+
         if(start>end) return NULL;
 
         int val = preorder[ind];
         int i = start;
-        for( ; i<=end; i++ ){
+        for(i; i<preorder.size(); i++){
             if(inorder[i] == val) break;
         }
+
         ind++;
         TreeNode* root = new TreeNode(val);
         root->left = helper(preorder, inorder, start, i-1, ind);
