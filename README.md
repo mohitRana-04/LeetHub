@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 | [1983-maximum-population-year](https://github.com/mohitRana-04/LeetHub/tree/master/1983-maximum-population-year) |
+| [2727-number-of-senior-citizens](https://github.com/mohitRana-04/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Matrix
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/mohitRana-04/LeetHub/tree/master/0139-word-break) |
 | [0433-minimum-genetic-mutation](https://github.com/mohitRana-04/LeetHub/tree/master/0433-minimum-genetic-mutation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2727-number-of-senior-citizens](https://github.com/mohitRana-04/LeetHub/tree/master/2727-number-of-senior-citizens) |
 ## Trie
 |  |
 | ------- |
