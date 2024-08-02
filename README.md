@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mohitRana-04/LeetHub/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohitRana-04/LeetHub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1983-maximum-population-year](https://github.com/mohitRana-04/LeetHub/tree/master/1983-maximum-population-year) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitRana-04/LeetHub/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/mohitRana-04/LeetHub/tree/master/2727-number-of-senior-citizens) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitRana-04/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitRana-04/LeetHub/tree/master/0162-find-peak-element) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohitRana-04/LeetHub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Recursion
 |  |
 | ------- |
