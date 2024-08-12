@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohitRana-04/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitRana-04/LeetHub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/mohitRana-04/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohitRana-04/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Array
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/mohitRana-04/LeetHub/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohitRana-04/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Graph
 |  |
 | ------- |
@@ -213,4 +216,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/mohitRana-04/LeetHub/tree/master/0273-integer-to-english-words) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohitRana-04/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohitRana-04/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/mohitRana-04/LeetHub/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
