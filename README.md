@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0054-spiral-matrix) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohitRana-04/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohitRana-04/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohitRana-04/LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Tree
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohitRana-04/LeetHub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitRana-04/LeetHub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1983-maximum-population-year](https://github.com/mohitRana-04/LeetHub/tree/master/1983-maximum-population-year) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohitRana-04/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohitRana-04/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohitRana-04/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitRana-04/LeetHub/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/mohitRana-04/LeetHub/tree/master/1983-maximum-population-year) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohitRana-04/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohitRana-04/LeetHub/tree/master/0162-find-peak-element) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohitRana-04/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohitRana-04/LeetHub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohitRana-04/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
 |  |
 | ------- |
