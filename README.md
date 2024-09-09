@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohitRana-04/LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/mohitRana-04/LeetHub/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohitRana-04/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/mohitRana-04/LeetHub/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohitRana-04/LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/mohitRana-04/LeetHub/tree/master/2411-spiral-matrix-iv) |
 ## Tree
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/mohitRana-04/LeetHub/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohitRana-04/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohitRana-04/LeetHub/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/mohitRana-04/LeetHub/tree/master/2411-spiral-matrix-iv) |
 | [2727-number-of-senior-citizens](https://github.com/mohitRana-04/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Matrix
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohitRana-04/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/mohitRana-04/LeetHub/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
