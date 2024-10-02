@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/mohitRana-04/LeetHub/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mohitRana-04/LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/mohitRana-04/LeetHub/tree/master/2411-spiral-matrix-iv) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitRana-04/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/mohitRana-04/LeetHub/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/mohitRana-04/LeetHub/tree/master/0273-integer-to-english-words) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitRana-04/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/mohitRana-04/LeetHub/tree/master/0273-integer-to-english-words) |
 | [2155-find-missing-observations](https://github.com/mohitRana-04/LeetHub/tree/master/2155-find-missing-observations) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitRana-04/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -265,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/mohitRana-04/LeetHub/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohitRana-04/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mohitRana-04/LeetHub/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitRana-04/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
