@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohitRana-04/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mohitRana-04/LeetHub/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohitRana-04/LeetHub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/mohitRana-04/LeetHub/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitRana-04/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/mohitRana-04/LeetHub/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/mohitRana-04/LeetHub/tree/master/0890-lemonade-change) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitRana-04/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Backtracking
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohitRana-04/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
