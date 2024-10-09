@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/mohitRana-04/LeetHub/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/mohitRana-04/LeetHub/tree/master/0433-minimum-genetic-mutation) |
 | [0664-strange-printer](https://github.com/mohitRana-04/LeetHub/tree/master/0664-strange-printer) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitRana-04/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohitRana-04/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mohitRana-04/LeetHub/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/mohitRana-04/LeetHub/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/mohitRana-04/LeetHub/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitRana-04/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitRana-04/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitRana-04/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
