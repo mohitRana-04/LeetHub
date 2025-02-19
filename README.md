@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitRana-04/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitRana-04/LeetHub/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/mohitRana-04/LeetHub/tree/master/0278-first-bad-version) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohitRana-04/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohitRana-04/LeetHub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohitRana-04/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohitRana-04/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mohitRana-04/LeetHub/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitRana-04/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mohitRana-04/LeetHub/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
