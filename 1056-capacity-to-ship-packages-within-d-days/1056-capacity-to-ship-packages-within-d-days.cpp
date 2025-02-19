@@ -1,35 +1,35 @@
 class Solution {
 public:
 
-    int solve(vector<int> weights, int days, int mid){
-        int cnt = 1;
-        int sum = 0;
+    int solve(int mid, vector<int> weights){
+        int cap = 0, day = 1;
         for(auto x: weights){
-            sum = sum+x;
-            if(sum>mid){
-                sum = x;
-                cnt++;
+            cap = cap+x;
+            if(cap>mid){
+                day++;
+                cap = x;
             }
-            if(cnt>days) return false;
         }
-        return true;
+       
+        return day;
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
-        int maxW = 0, sum = 0;
+        int r = 0, l = 0;
         for(auto x: weights){
-            sum+=x;
-            maxW = max(maxW, x);
-        }
+            r+=x;
+            l = max(l,x);
+        } 
+        
 
-        while(maxW<sum){
-            int mid = maxW+(sum-maxW)/2;
-            if(solve(weights, days, mid)){
-                sum = mid;
-            } else{
-                maxW = mid+1;
+        while(l<r){
+            int mid = l+(r-l)/2;
+            if(solve(mid,weights)<=days){
+                r = mid;
+            }else{
+                l = mid+1;
             }
         }
-        return maxW;
+        return l;
     }
 };
