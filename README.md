@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohitRana-04/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0907-koko-eating-bananas](https://github.com/mohitRana-04/LeetHub/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohitRana-04/LeetHub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1307-ugly-number-iii](https://github.com/mohitRana-04/LeetHub/tree/master/1307-ugly-number-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohitRana-04/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/mohitRana-04/LeetHub/tree/master/0273-integer-to-english-words) |
+| [1307-ugly-number-iii](https://github.com/mohitRana-04/LeetHub/tree/master/1307-ugly-number-iii) |
 | [2155-find-missing-observations](https://github.com/mohitRana-04/LeetHub/tree/master/2155-find-missing-observations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mohitRana-04/LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
@@ -290,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mohitRana-04/LeetHub/tree/master/0278-first-bad-version) |
+## Combinatorics
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/mohitRana-04/LeetHub/tree/master/1307-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/mohitRana-04/LeetHub/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
