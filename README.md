@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/mohitRana-04/LeetHub/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mohitRana-04/LeetHub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/mohitRana-04/LeetHub/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0152-maximum-product-subarray) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohitRana-04/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohitRana-04/LeetHub/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mohitRana-04/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitRana-04/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitRana-04/LeetHub/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/mohitRana-04/LeetHub/tree/master/0278-first-bad-version) |
