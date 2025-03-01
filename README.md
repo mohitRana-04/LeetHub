@@ -307,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/mohitRana-04/LeetHub/tree/master/1307-ugly-number-iii) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/mohitRana-04/LeetHub/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
