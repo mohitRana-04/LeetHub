@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/mohitRana-04/LeetHub/tree/master/0176-second-highest-salary) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/mohitRana-04/LeetHub/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0627-swap-salary](https://github.com/mohitRana-04/LeetHub/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/mohitRana-04/LeetHub/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1338-queries-quality-and-percentage](https://github.com/mohitRana-04/LeetHub/tree/master/1338-queries-quality-and-percentage) |
