@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mohitRana-04/LeetHub/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/mohitRana-04/LeetHub/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/mohitRana-04/LeetHub/tree/master/0907-koko-eating-bananas) |
+| [1025-minimum-cost-for-tickets](https://github.com/mohitRana-04/LeetHub/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohitRana-04/LeetHub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitRana-04/LeetHub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohitRana-04/LeetHub/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/mohitRana-04/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0664-strange-printer](https://github.com/mohitRana-04/LeetHub/tree/master/0664-strange-printer) |
+| [1025-minimum-cost-for-tickets](https://github.com/mohitRana-04/LeetHub/tree/master/1025-minimum-cost-for-tickets) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## String
