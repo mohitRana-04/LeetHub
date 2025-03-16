@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohitRana-04/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohitRana-04/LeetHub/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/mohitRana-04/LeetHub/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/mohitRana-04/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/mohitRana-04/LeetHub/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mohitRana-04/LeetHub/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mohitRana-04/LeetHub/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/mohitRana-04/LeetHub/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/mohitRana-04/LeetHub/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/mohitRana-04/LeetHub/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/mohitRana-04/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0664-strange-printer](https://github.com/mohitRana-04/LeetHub/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
