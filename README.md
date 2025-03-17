@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/mohitRana-04/LeetHub/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/mohitRana-04/LeetHub/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohitRana-04/LeetHub/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1129-longest-string-chain](https://github.com/mohitRana-04/LeetHub/tree/master/1129-longest-string-chain) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitRana-04/LeetHub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohitRana-04/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1983-maximum-population-year](https://github.com/mohitRana-04/LeetHub/tree/master/1983-maximum-population-year) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/mohitRana-04/LeetHub/tree/master/0433-minimum-genetic-mutation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/mohitRana-04/LeetHub/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1129-longest-string-chain](https://github.com/mohitRana-04/LeetHub/tree/master/1129-longest-string-chain) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/mohitRana-04/LeetHub/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitRana-04/LeetHub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohitRana-04/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitRana-04/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0664-strange-printer](https://github.com/mohitRana-04/LeetHub/tree/master/0664-strange-printer) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohitRana-04/LeetHub/tree/master/1025-minimum-cost-for-tickets) |
+| [1129-longest-string-chain](https://github.com/mohitRana-04/LeetHub/tree/master/1129-longest-string-chain) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/mohitRana-04/LeetHub/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## String
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/mohitRana-04/LeetHub/tree/master/0433-minimum-genetic-mutation) |
 | [0664-strange-printer](https://github.com/mohitRana-04/LeetHub/tree/master/0664-strange-printer) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitRana-04/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1129-longest-string-chain](https://github.com/mohitRana-04/LeetHub/tree/master/1129-longest-string-chain) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohitRana-04/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/mohitRana-04/LeetHub/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0142-linked-list-cycle-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohitRana-04/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1129-longest-string-chain](https://github.com/mohitRana-04/LeetHub/tree/master/1129-longest-string-chain) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mohitRana-04/LeetHub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
@@ -278,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/mohitRana-04/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohitRana-04/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1129-longest-string-chain](https://github.com/mohitRana-04/LeetHub/tree/master/1129-longest-string-chain) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitRana-04/LeetHub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitRana-04/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
