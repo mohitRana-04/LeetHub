@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/mohitRana-04/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mohitRana-04/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/mohitRana-04/LeetHub/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mohitRana-04/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mohitRana-04/LeetHub/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/mohitRana-04/LeetHub/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohitRana-04/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mohitRana-04/LeetHub/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/mohitRana-04/LeetHub/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/mohitRana-04/LeetHub/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mohitRana-04/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0664-strange-printer](https://github.com/mohitRana-04/LeetHub/tree/master/0664-strange-printer) |
 | [1025-minimum-cost-for-tickets](https://github.com/mohitRana-04/LeetHub/tree/master/1025-minimum-cost-for-tickets) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mohitRana-04/LeetHub/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/mohitRana-04/LeetHub/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/mohitRana-04/LeetHub/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/mohitRana-04/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/mohitRana-04/LeetHub/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohitRana-04/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mohitRana-04/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/mohitRana-04/LeetHub/tree/master/0646-maximum-length-of-pair-chain) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/mohitRana-04/LeetHub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohitRana-04/LeetHub/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohitRana-04/LeetHub/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
